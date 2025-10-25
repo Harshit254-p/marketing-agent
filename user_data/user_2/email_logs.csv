@@ -1,0 +1,19 @@
+id,user_id,lead_id,email_type,subject,body,status,error_message,timestamp
+2,2,2,INITIAL,Unlock Strategic Insights for pixel.pvt with StrategyHub.in (Sample Report Attached),"Dear ramu kaka,
+
+As a ceo at pixel.pvt, navigating strategic decisions is paramount. StrategyHub.in offers AI-powered diagnostic reports to provide comprehensive business evaluations, similar to the sample report I've attached to this email for your review.
+
+This sample will show you how we break down complex business functions into actionable insights.
+
+After reviewing the attachment, discover more here: {MAIN_CTA_TRACKED_LINK_PLACEHOLDER}
+
+Best regards,
+Rishabh
+StrategyHub
+
+---
+To unsubscribe, click here: {UNSUBSCRIBE_LINK_PLACEHOLDER}
+
+[Template: AI failed. Demo report attached.]
+
+[Attachment: Sample_Report_Strategyhub.pdf was sent]",SENT,,2025-10-16T14:31:10.722326

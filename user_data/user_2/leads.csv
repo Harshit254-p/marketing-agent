@@ -1,0 +1,17 @@
+id,user_id,company_input,lead_name,lead_email,lead_role,hunter_data,initial_email_subject,initial_email_body,initial_email_sent_timestamp,initial_email_status,initial_email_error,last_follow_up_type,last_follow_up_timestamp,follow_up_count,strategyhub_used,responded,cta_clicked,next_follow_up_due,created_at,strategyhub_used_text,cta_clicked_text
+2,2,pixel.pvt,ramu kaka,harshitpandya254@gmail.com,ceo,"{""source"": ""manual_test_entry""}",Unlock Strategic Insights for pixel.pvt with StrategyHub.in (Sample Report Attached),"Dear ramu kaka,
+
+As a ceo at pixel.pvt, navigating strategic decisions is paramount. StrategyHub.in offers AI-powered diagnostic reports to provide comprehensive business evaluations, similar to the sample report I've attached to this email for your review.
+
+This sample will show you how we break down complex business functions into actionable insights.
+
+After reviewing the attachment, discover more here: {MAIN_CTA_TRACKED_LINK_PLACEHOLDER}
+
+Best regards,
+Rishabh
+StrategyHub
+
+---
+To unsubscribe, click here: {UNSUBSCRIBE_LINK_PLACEHOLDER}
+
+[Template: AI failed. Demo report attached.]",2025-10-16T14:31:17.204544,SENT,,,,0,2,0,0,2025-10-19 14:31:17,2025-10-16T14:31:03.102919,Unknown,No
